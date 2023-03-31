@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "556092458168",
+    "project_id": "texpo-1175d",
+    "storage_bucket": "texpo-1175d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556092458168:android:2605200f35defc7c90604d",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556092458168-aein6vh5fbh4tia9r3duroq8jmt054lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentification",
+            "certificate_hash": "307b174f09439112644bc79ffcafb07052f9f7c2"
+          }
+        },
+        {
+          "client_id": "556092458168-2anluegbe2oifun7pca4ae4cmc8jcg3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFb1pIEJie320sDDAI0jKTKTr62EBq2Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556092458168-2anluegbe2oifun7pca4ae4cmc8jcg3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
